@@ -1,0 +1,12 @@
+#
+# robots.txt for http://copas.udec.cl/
+#
+# 2009-10-07
+#
+# exclude some access-controlled areas
+User-agent: *
+Disallow: /admin
+Disallow: /css
+Disallow: /db
+Disallow: /files_2
+

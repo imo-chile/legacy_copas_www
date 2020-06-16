@@ -1,0 +1,26 @@
+.disclaimer{
+   padding: 10px 0px 0px 0px;
+   text-align: center;
+   font-size: 7pt;
+   color: #8eb2ca;
+}
+
+.disclaimer h1{
+   font-size: 7pt;
+   padding: 0;
+}
+
+.intro_f {
+   border-top:7px solid #4E566B;
+   background-color:#FFFFFF;
+   padding:0 0 1px;
+   text-align: left;
+}
+
+.intro_f img{
+   vertical-align:  bottom;
+}
+
+.vcard{
+   visibility: hidden;
+}

@@ -1,0 +1,29 @@
+/**
+ * @author Francisco A. Godoy-Figueroa
+ * @copyright 2007-2011 COPAS Center
+ * @version 2
+ */
+
+.columns_wrapper {
+   margin: 0px auto;
+   padding: 0px;
+   border: 0;
+   background: url('background.gif') repeat;
+   width: 760px;
+}
+
+.description {
+   width: 367px;
+   float: left;
+}
+
+.blog {
+   width: 393px;
+	float: left;
+/*	height: 1%;  Holly hack for Peekaboo Bug */
+}
+
+.fondo {
+   position: absolute;
+   bottom: 370px;
+}

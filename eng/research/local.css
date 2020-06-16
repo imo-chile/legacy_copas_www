@@ -1,0 +1,86 @@
+/**
+ * @author Francisco A. Godoy-Figueroa
+ * @copyright 2007-2011 COPAS Center
+ * @version 2
+ */
+
+.columns_wrapper {
+   margin: 0px auto;
+   padding: 0px;
+   border: 0;
+   background: url('background.gif') repeat;
+   width: 760px;
+}
+
+.description {
+   width: 367px;
+   float: left;
+}
+
+.blog {
+   width: 393px;
+	float: left;
+/*	height: 1%;  Holly hack for Peekaboo Bug */
+}
+
+.fondo {
+   position: absolute;
+   bottom: 370px;
+}
+
+.title_inv{
+   font-size: 10pt;
+   font-weight: bold;
+   padding: 20px 0 5px 16px;
+}
+
+.post{
+margin: 5px;
+padding: 10px;
+text-align: justify;
+border: solid 1px;
+border-color: #cccccc;
+}
+
+.post_date{
+    font-size: 80%;
+	margin: 0 0 10px 0;
+	color: #B0B0B0;
+}
+
+.post_title{
+	font-weight: bold;
+	text-align: center;
+	margin: 5px 0 5px 0;
+	color: #2874F2;
+}
+
+.post_title2{
+	font-weight: bold;
+	text-align: center;
+	margin: 0 0 5px 0;
+}
+.post_text{
+	margin: 10px 0 0 0;
+}
+
+.post_link{
+	font-weight: bold;
+}
+
+.top_button{
+	text-align: center;
+	font-weight: bold;
+}
+
+.feed_button{
+	text-align: right;
+	font-weight: bold;
+	margin: 0 10px 0 0;
+}
+
+.bottom_button{
+	text-align: left;
+	font-weight: bold;
+	margin: 0 0 5px 10px;
+}
